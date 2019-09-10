@@ -1,4 +1,4 @@
-# FiveTasks
+#### FiveTasks
 
 1. Create methods like Math.pow, Math.max, Math.max, Math.round, Math.abs, Math.floor.
 
@@ -15,3 +15,5 @@ strings .. ,... ,....
 5. Create program that will calculate how many days passed since someone is born.
 example
 01.09.2000 days are ........
+
+######
